@@ -492,7 +492,7 @@
   .plan-card.complex { animation-delay: 0.4s; }
 
   @media (max-width: 600px) {
-    .plans-grid { grid-template-columns: 1fr; gap: 100px; }
+    .plans-grid { grid-template-columns: 1fr; gap: 80px; }
     .plan-price { font-size: 64px; }
     h1 { font-size: 72px; }
     footer { flex-direction: column; }
@@ -545,6 +545,11 @@
     transition: color 0.3s;
     text-decoration: none;
     color: var(--muted);
+  }
+
+  .menu-socials {
+    display: flex;
+    gap: 20px;
   }
 
   .menu-social img {
