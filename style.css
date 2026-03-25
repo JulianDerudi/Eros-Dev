@@ -5,7 +5,7 @@
     --accent: #c8f53f;
     --accent2: #3ff5c8;
     --text: #f0f0f0;
-    --muted: #666;
+    --muted: #dbd8d8;
     --card-simple: #0f1a00;
     --card-complex: #001a15;
   }
@@ -322,7 +322,7 @@
     align-items: flex-start;
     gap: 12px;
     font-size: 14px;
-    color: #aaa;
+    color: var(--text);
     line-height: 1.5;
     padding: 6px 0;
   }
