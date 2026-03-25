@@ -514,7 +514,7 @@
 
   .menu-brand {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 27px;
+    font-size: 30px;
     text-decoration: none;
     letter-spacing: 0.04em;
     color: var(--muted);
@@ -527,7 +527,7 @@
   .menu {
     display: flex;
     gap: 32px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0.06em;
