@@ -512,6 +512,18 @@
     padding: 12px 0;
   }
 
+  .menu-brand {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 27px;
+    text-decoration: none;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+  }
+
+  .menu-brand span {
+    color: var(--accent);
+  }
+
   .menu {
     display: flex;
     gap: 32px;
